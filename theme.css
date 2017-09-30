@@ -1,0 +1,27 @@
+#page{
+  height: 100%;
+  width: 100%;
+}
+
+body{
+margin: 0;
+overflow-y: hidden;
+}
+
+#url{
+  margin-left: 5px;
+}
+#page{
+    overflow-y: scroll;
+}
+
+#go{
+  margin-bottom: 1em;
+}
+
+#navBtns{
+  margin-bottom: 0.2em;
+}
+#navBtns button{
+  margin-right: 1em;
+}
